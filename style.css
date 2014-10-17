@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #000;
+}
+
+#screen {
+    width: 320px;
+    height: 240px;
+    font-size: 1px;
+    letter-spacing: 0.5px;
+    line-height: 1px;
+    border: solid 10px #666;
+    background-color: #000;
+    margin: 20px 20px 0 20px;
+}
+
+#tracer {
+    width: 310px;
+    height: 230px;
+    border: solid 10px #666;
+    background-color: #FFF;
+    margin: 20px 20px 0 20px;
+    padding: 5px;
+    overflow-y: auto;
+    font-family: Courier;
+    font-size: 12px;
+}
